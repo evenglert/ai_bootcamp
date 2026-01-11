@@ -1,5 +1,5 @@
 # Owner: Evgeniya Englert
-# Python packages to be pre-installed
+# Python packages to be pre-installed for AI bootcamp
 pip install pandas
 pip install numpy
 pip install scikit-learn

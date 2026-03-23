@@ -7,3 +7,4 @@
 * evenglert_io_students_database: Managing a student data base (add, remove, view, search for students)
 * evenglert_supervised_machine_learning: Developing a machine learning model that can perform a data analysis on synthetically generated data; using data preprocessing, hyperparametr tuning, cross-validation; comparing performance of Linear Regression, Regression Tree, Random Forest, XGBoost, and Support Vector Machine
 * evenglert_clustering_kmeans: K-Means Customer Segmentation: Automated Clustering and Evaluation using KMeans incl. Elbow method and Silhouette analysis 
+* evenglert_perceptron: Implemented a simple perceptron model from scratch using Python for binary classification.
